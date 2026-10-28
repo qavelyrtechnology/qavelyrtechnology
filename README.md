@@ -5,6 +5,7 @@
 Qavelyr is an independent technology company building software, web products, mobile apps, AI, automation, games and digital services.
 
 🌐 Website: https://qavelyr.netlify.app
+
 ✉️ Email: qavelyrtechnology@gmail.com
 
 ### Follow us
